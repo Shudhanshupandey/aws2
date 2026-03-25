@@ -1,8 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title> my app</title>
+<title>Flask + JS App</title>
 </head>
 <body>
-<h1> my name </h1>
+<h1>Flask + JavaScript Demo</h1>
+<button onclick="getData()">Get Data</button>
+<p id="output"></p>
+<script src="/static/script.js"></script>
 </body>
 </html>
